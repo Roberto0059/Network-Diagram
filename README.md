@@ -2,8 +2,8 @@
 
 <h2>Network Diagram Project Description</h2>
 
-- Your team has been hired by my company to build and secure my network. The goal of this assignment is for 
-your team to build out and secure my network as much as possible. Everything in the I.T. world will be focused 
+- You have been hired by my company to build and secure my network. The goal of this assignment is for 
+you to build out and secure my network as much as possible. Everything in the I.T. world will be focused 
 on securing a network in one way or another. By doing this, this will help you better understand the 
 concept of defense in-depth and how hard it is to implement security within a budget.
 - Those items are as follows: 
