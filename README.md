@@ -7,8 +7,8 @@ your team to build out and secure my network as much as possible. Everything in 
 on securing a network in one way or another. By doing this, this will help you better understand the 
 concept of defense in-depth and how hard it is to implement security within a budget.
 - Those items are as follows: 
-  - DMZ
-  - Segmentation 
+  - DMZ - A network that protects and adds an extra layer of security to an organization's internal local-area network from untrusted traffic.
+  - Segmentation -  A technique that divides a network into smaller. Ex: sub-networks
   - Write out and describe my network in detail and all security features that your team included and why your team
     included those features. 
   - Must keep the network within the one-million-dollar budget I have given you.
